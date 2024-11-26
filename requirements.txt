@@ -1,1 +1,4 @@
 getmac
+matplotlib
+numpy
+scipy
